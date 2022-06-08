@@ -1,8 +1,6 @@
 {
     "Header": {
-        "paragraph": "Waar zorg centraal staat.",
-        "participate": "Doe mee aan het geruikersonderzoek als zorgverlener"
-
+        "paragraph": "Waar zorg centraal staat."
     },
     "About": {
         "paragraph": "icurai is een webapplicatie waarbij men als patiënt en mantelzorger aan zorgorganisatie kan doen. icurai brengt zorgverleners en buurtteams in de mogelijkheid om via het communicatieplatform met elkaar te spreken of hun planning met elkaar af te stemmen. Maak je buurtevents kenbaar. Door zorgrelaties in kaart te brengen, zal icuai het zorgnetwerk omarmen.",
@@ -19,7 +17,7 @@
         ]
     },
     "Gebruikersonderzoek": {
-        "paragraph": "Doe mee aan het geruikersonderzoek als zorgverlener"
+        "paragraph": "Doe mee aan het gebruikersonderzoek als zorgverlener"
 
     }
 }
